@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ilya.voinilovich\\source\\repos\\Test\\WebApplication\\WebApplication\\WebApplication.csproj": {}
+    "C:\\Users\\ilya.voinilovich\\Source\\Repos\\Test\\WebApplication\\WebApplication\\WebApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ilya.voinilovich\\source\\repos\\Test\\WebApplication\\WebApplication\\WebApplication.csproj": {
+    "C:\\Users\\ilya.voinilovich\\Source\\Repos\\Test\\WebApplication\\WebApplication\\WebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ilya.voinilovich\\source\\repos\\Test\\WebApplication\\WebApplication\\WebApplication.csproj",
+        "projectUniqueName": "C:\\Users\\ilya.voinilovich\\Source\\Repos\\Test\\WebApplication\\WebApplication\\WebApplication.csproj",
         "projectName": "WebApplication",
-        "projectPath": "C:\\Users\\ilya.voinilovich\\source\\repos\\Test\\WebApplication\\WebApplication\\WebApplication.csproj",
+        "projectPath": "C:\\Users\\ilya.voinilovich\\Source\\Repos\\Test\\WebApplication\\WebApplication\\WebApplication.csproj",
         "packagesPath": "C:\\Users\\ilya.voinilovich\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ilya.voinilovich\\source\\repos\\Test\\WebApplication\\WebApplication\\obj\\",
+        "outputPath": "C:\\Users\\ilya.voinilovich\\Source\\Repos\\Test\\WebApplication\\WebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ilya.voinilovich\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WebApplication",
+    "\\WebApplication\\WebApplication"
   ],
+  "SelectedNode": "\\WebApplication\\WebApplication\\WeatherForecast.cs",
   "PreviewInSolutionExplorer": false
 }
